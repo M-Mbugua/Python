@@ -13,7 +13,7 @@ def acronym_maker(word):
         if word[i - 1] == ' ':
             output += word[i]
 
-    output = output.upper()
+    output = output.end()
     return output
 
 
