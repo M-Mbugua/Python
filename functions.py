@@ -22,4 +22,3 @@ myfunc("Anticipate")
 #         else:
 #             out.append(x[i].upper())
 #     return ''.join(out)
-
