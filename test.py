@@ -84,4 +84,3 @@ def count_primes(num):
 
 
 
-
